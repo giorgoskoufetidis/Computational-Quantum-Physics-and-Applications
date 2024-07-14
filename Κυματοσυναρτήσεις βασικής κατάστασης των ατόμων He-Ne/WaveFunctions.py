@@ -2,7 +2,7 @@
 """
 Created on Mon May 27 11:17:36 2024
 
-@author: Giorgos
+@author: Giorgos Koufetidis
 """
 import numpy as np
 from scipy.integrate import quad,simpson
